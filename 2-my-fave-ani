@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>gallary</title>
+        <style>
+            body {
+                background-color:lightblue;
+            }
+            img {
+                border:10px ridge red;
+                box-shadow:5px 7px 8px;
+                }
+           h1 {
+                font-family:cursive;
+                padding:8px;
+            }
+            p {
+                font-family:cursive;
+            }
+        </style>
+    </head>
+    <body>
+  <h1>Blen's Art Gallary</h1>
+  <p>These pictures are a few of my favorite aranged in a gallary style! Hope you enjoy!</p>
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/butterfly.png" alt="butterfly" width="159">
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/birds_rainbow-lorakeets.png" alt="birds" width="159">
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png" alt=" a brown cat" width="159">
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png" alt="sunset at a beach" width="159">
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/croissant.png" alt="a crossiant with milk" width="159">
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/berries.png" alt="berries" width="159">
+    </body>
+</html>
